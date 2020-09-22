@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="NewsActivity_emptyData">No Data Found\nTry Different Settings\n---> UP CORNER</string>
+    <string name="no_internet_connection">No Internet Connection\nTurn Off Airplane Mode\nTurn On Wifi</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key">order-by</string>
+    <string name="settings_order_by_default" translatable="false">newest</string>
+
+    <string name="settings_section_label">Section</string>
+    <string name="settings_section_default" translatable="false">business</string>
+    <string name="settings_section_key">section</string>
+
+    <string name="settings_language_label">Language</string>
+    <string name="settings_language_default" translatable="false">en</string>
+    <string name="settings_language_key">lang</string>
+
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <string name="settings_language_en_label">English</string>
+    <string name="settings_language_en_value" translatable="false">en</string>
+
+    <string name="settings_language_fr_label">French</string>
+    <string name="settings_language_fr_value" translatable="false">fr</string>
+
+    <string name="settings_language_es_label">Spanish</string>
+    <string name="settings_language_es_value" translatable="false">es</string>
+
+    <string name="settings_section_politics_label">Politics</string>
+    <string name="settings_section_politics_value" translatable="false">politics</string>
+
+    <string name="settings_section_football_label">Football</string>
+    <string name="settings_section_football_value" translatable="false">football</string>
+
+    <string name="settings_section_environment_label">Environment</string>
+    <string name="settings_section_environment_value" translatable="false">environment</string>
+
+    <string name="settings_section_business_label">Business</string>
+    <string name="settings_section_business_value" translatable="false">business</string>
+
+    <string name="settings_section_books_label">Books</string>
+    <string name="settings_section_books_value" translatable="false">books</string>
+</resources>

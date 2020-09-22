@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_itemNews_16dp">16dp</dimen>
+    <dimen name="textSize_title">24sp</dimen>
+    <dimen name="width_title">300dp</dimen>
+</resources>
